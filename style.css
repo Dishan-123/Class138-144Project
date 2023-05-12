@@ -1,0 +1,43 @@
+body
+{
+    background: url("background1.jpg");
+}
+
+#footer
+{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+
+
+h1
+{
+    width: 100%;
+    text-align: left;
+}
+
+#mymodal
+{
+    background-color: aliceblue;
+    width: 600px;
+    height: 400px;
+    margin-left: 450px;
+    margin-top: 150px;
+}
+
+#close
+{
+    float: right;
+}
+
+li
+{
+    background-color: yellow;
+}
+
+canvas
+{
+    margin-top: 50px;
+}
